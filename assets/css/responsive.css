@@ -1,20 +1,5 @@
 @media (max-width: 575px) { 
-    #inputEmail4{
-        width:340px
-    }
-    #inputPassword4{
-      width:340px
-    }
-    #inputAddress{
-       width:340px
-    }
-    #inputAddress2{
-      width:340px;
-      height:200px;
-    }
-    #form-fill{
-        margin-left:10%;
-    }
+    
    
     }
  
